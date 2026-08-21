@@ -135,7 +135,7 @@ O site oficial concentra a experiência web do Kayn, incluindo cards, comandos, 
 
 ## 🔒 Código-fonte privado
 
-O Kayn é apresentado publicamente, mas seu código-fonte não é distribuído neste repositório.
+O Kayn é apresentado publicamente, mas seu código-fonte é privado.
 
 | Projeto | Função | Visibilidade |
 |---|---|---|
@@ -143,7 +143,7 @@ O Kayn é apresentado publicamente, mas seu código-fonte não é distribuído n
 | **KaynOficial** | Plataforma, site e experiência web | 🔒 Privado |
 | **KaynDC** | Vitrine e apresentação pública | 🌐 Público |
 
-Essa separação permite apresentar o produto, suas tecnologias e seus recursos sem disponibilizar a implementação interna.
+Essa separação permite apresentar o produto, suas tecnologias e seus recursos sem fornecer dados internos do Kayn por motivos de segurança e plagio.
 
 ---
 
@@ -159,6 +159,6 @@ Essa separação permite apresentar o produto, suas tecnologias e seus recursos 
 
 [Site Oficial](https://kaynoficial.vercel.app/) · [Desenvolvedor](https://github.com/luizcordeiro155)
 
-<sub>Repositório público de apresentação. Código-fonte do Kayn mantido em repositórios privados.</sub>
+<sub>Repositório público de apresentação. Código-fonte do Kayn estão privados.</sub>
 
 </div>
