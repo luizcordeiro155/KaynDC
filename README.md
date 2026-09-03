@@ -64,6 +64,8 @@ O Kayn também possui recursos desenvolvidos para comunidades gamers.
 
 O sistema de música faz parte da experiência principal do Kayn no Discord.
 
+- Painel Web de musicas na parte Kayn Live do site;
+- Agora pode controlar direto pelo discord como Aplicativo;
 - reprodução em canais de voz;
 - suporte a músicas e playlists;
 - gerenciamento de fila;
