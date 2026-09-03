@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b76542d-74ee-4ba2-a92d-989447f154ac](https://github-production-user-asset-6210df.s3.amazonaws.com/267215886/645749528-1b76542d-74ee-4ba2-a92d-989447f154ac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260903T141957Z&X-Amz-Expires=300&X-Amz-Signature=933a6614910ff4bd0e6d7c6dfbeefb3661c1c478b9b2aa83e8043ba109c20648&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng](https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png" /><div align="center">
+<img width="1024" height="1024" alt="image" src="https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png" /><div align="center">
 
 # KAYN
 
