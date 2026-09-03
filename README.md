@@ -147,7 +147,7 @@ Essa separação permite apresentar o produto, suas tecnologias e seus recursos 
 
 <div align="center">
 
-<img src="https://kaynoficial.vercel.app/assets/Hero%20K-DG_qy3jx.png" width="110" alt="Kayn" />
+<img src="https://kayn.squareweb.app/assets/NOVO%20kayn-Cm8BW73T.png" width="110" alt="Kayn" />
 
 ### Entre no universo do Kayn
 
