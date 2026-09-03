@@ -10,7 +10,7 @@
 
 Economia profunda, cartas colecionáveis, batalhas, música, inteligência artificial, recursos gamer e moderação para transformar comunidades do Discord em uma experiência completa.
 
-[![Adicionar Kayn](https://img.shields.io/badge/ADICIONAR_KAYN-AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot%20applications.commands&permissions=0)
+[![Adicionar Kayn](https://img.shields.io/badge/ADICIONAR_KAYN-AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8)
 [![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-ACESSAR-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
 ![Código privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -153,7 +153,7 @@ Essa separação permite apresentar o produto, suas tecnologias e seus recursos 
 
 ### Entre no universo do Kayn
 
-[![Adicionar ao Discord](https://img.shields.io/badge/ADICIONAR_AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot%20applications.commands&permissions=0)
+[![Adicionar ao Discord](https://img.shields.io/badge/ADICIONAR_AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8)
 
 **Cards • Economia • Batalhas • Música • IA • Gamer Hub • Moderação • Comunidade**
 
