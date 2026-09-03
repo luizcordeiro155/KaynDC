@@ -1,6 +1,6 @@
-<div align="center">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b76542d-74ee-4ba2-a92d-989447f154ac" /><div align="center">
 
-<img src="https://kaynoficial.vercel.app/assets/Hero%20K-DG_qy3jx.png" width="220" alt="Kayn" />
+<img src="[https://kaynoficial.vercel.app/assets/Hero%20K-DG_qy3jx.png](https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png)" width="220" alt="Kayn" /> 
 
 # KAYN
 
