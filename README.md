@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://kayn.squareweb.app/assets/Hero%20K-N7fPR_HA.png" /><div align="center">
+<img width="1024" height="1024" alt="image" src="https://www.kayn.online/assets/Hero%20K-N7fPR_HA.png" /><div align="center">
 
 # KAYN
 
@@ -9,7 +9,7 @@
 Economia profunda, cartas colecionáveis, batalhas, música, inteligência artificial, recursos gamer e moderação para transformar comunidades do Discord em uma experiência completa.
 
 [![Adicionar Kayn](https://img.shields.io/badge/ADICIONAR_KAYN-AO_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1485761757145333892&scope=bot&permissions=8)
-[![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-ACESSAR-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
+[![Site Oficial](https://img.shields.io/badge/SITE_OFICIAL-KAYN.ONLINE-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kayn.online/)
 ![Código privado](https://img.shields.io/badge/CÓDIGO--FONTE-PRIVADO-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -41,7 +41,7 @@ O universo de cards é uma das bases da experiência do Kayn.
 
 <div align="center">
 
-[![Ver Cards](https://img.shields.io/badge/VER_CARDS-ACESSAR-7C3AED?style=for-the-badge)](https://kaynoficial.vercel.app/pt-br/cards)
+[![Ver Cards](https://img.shields.io/badge/VER_CARDS-ACESSAR-7C3AED?style=for-the-badge)](https://www.kayn.online/pt-br/cards)
 
 </div>
 
@@ -108,9 +108,9 @@ O site oficial concentra a experiência web do Kayn, incluindo cards, comandos, 
 
 <div align="center">
 
-[![Site Kayn](https://img.shields.io/badge/ABRIR_SITE_OFICIAL-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://kaynoficial.vercel.app/)
-[![Comandos](https://img.shields.io/badge/COMANDOS-VER_LISTA-6D28D9?style=for-the-badge)](https://kaynoficial.vercel.app/pt-br/comandos)
-[![Premium](https://img.shields.io/badge/KAYN_PREMIUM-CONHECER-C026D3?style=for-the-badge)](https://kaynoficial.vercel.app/pt-br/premium)
+[![Site Kayn](https://img.shields.io/badge/ABRIR_KAYN.ONLINE-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kayn.online/)
+[![Comandos](https://img.shields.io/badge/COMANDOS-VER_LISTA-6D28D9?style=for-the-badge)](https://www.kayn.online/pt-br/comandos)
+[![Premium](https://img.shields.io/badge/KAYN_PREMIUM-CONHECER-C026D3?style=for-the-badge)](https://www.kayn.online/pt-br/premium)
 
 </div>
 
@@ -149,7 +149,7 @@ Essa separação permite apresentar o produto, suas tecnologias e seus recursos 
 
 <div align="center">
 
-<img src="https://kayn.squareweb.app/assets/NOVO%20kayn-Cm8BW73T.png" width="110" alt="Kayn" />
+<img src="https://www.kayn.online/assets/NOVO%20kayn-Cm8BW73T.png" width="110" alt="Kayn" />
 
 ### Entre no universo do Kayn
 
@@ -157,8 +157,8 @@ Essa separação permite apresentar o produto, suas tecnologias e seus recursos 
 
 **Cards • Economia • Batalhas • Música • IA • Gamer Hub • Moderação • Comunidade**
 
-[Site Oficial](https://kaynoficial.vercel.app/) · [Desenvolvedor](https://github.com/luizcordeiro155)
+[Site Oficial](https://www.kayn.online/) · [Desenvolvedor](https://github.com/luizcordeiro155)
 
-<sub>Repositório público de apresentação. Código-fonte do Kayn estão privados.</sub>
+<sub>Repositório público de apresentação. Código-fonte do Kayn está privado.</sub>
 
 </div>
